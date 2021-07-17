@@ -31,4 +31,4 @@ py main.py
 
 
 > ⚠️Attention, les visages est en aucun cas de vrai visages de personnes réels. 
-> Cela à etait generer par une Inteligence Artificielle de thispersondoesnotexist.com
+> Cela à était générer par une Intelligence Artificielle de *thispersondoesnotexist.com*
